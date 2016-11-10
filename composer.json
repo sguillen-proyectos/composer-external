@@ -1,0 +1,17 @@
+{
+    "name": "Thinghive Core",
+    "description": "Thinghive business logic",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergio Guillen Mantilla",
+            "email": "serguimant@gmail.com"
+        }
+    ],
+    "require": [],
+    "autoload": {
+        "psr-4": {
+            "ThingHiveCore\\": "core/"
+        }
+    }
+}
