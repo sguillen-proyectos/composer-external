@@ -1,6 +1,7 @@
 {
     "name": "sguillen-proyectos/composer-external",
     "description": "Thinghive business logic",
+    "version": "0.1",
     "license": "MIT",
     "authors": [
         {
