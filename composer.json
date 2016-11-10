@@ -2,6 +2,7 @@
     "name": "sguillen-proyectos/composer-external",
     "description": "Thinghive business logic",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Sergio Guillen Mantilla",
